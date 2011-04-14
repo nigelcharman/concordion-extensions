@@ -1,0 +1,18 @@
+
+syntax: regexp
+^core/\.gradle$
+\.iml$
+syntax: regexp
+^core/\.classpath$
+syntax: regexp
+^core/\.project$
+syntax: regexp
+^core/build$
+syntax: regexp
+^examples/selenium2/\.gradle$
+syntax: regexp
+^examples/selenium2/\.project$
+syntax: regexp
+^examples/selenium2/\.classpath$
+syntax: regexp
+^examples/selenium2/build$
